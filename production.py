@@ -1,3 +1,6 @@
 print('Onlinefeature1')
 print('Onlinefeature2')
 print('Onlinefeature3')
+print('Localfeature4')
+print('Localfeature5')
+print('localfeature6')
